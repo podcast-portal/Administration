@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastManager.Administration", "PodcastManager.Administration\PodcastManager.Administration.csproj", "{B6D90B1E-8B3D-4E6C-9ED3-EB526D5439C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastManager.Administration.Tests", "PodcastManager.Administration.Tests\PodcastManager.Administration.Tests.csproj", "{B1404CB6-BCDE-4E4B-BBBB-16B735F6194A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D90B1E-8B3D-4E6C-9ED3-EB526D5439C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D90B1E-8B3D-4E6C-9ED3-EB526D5439C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D90B1E-8B3D-4E6C-9ED3-EB526D5439C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D90B1E-8B3D-4E6C-9ED3-EB526D5439C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1404CB6-BCDE-4E4B-BBBB-16B735F6194A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1404CB6-BCDE-4E4B-BBBB-16B735F6194A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1404CB6-BCDE-4E4B-BBBB-16B735F6194A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1404CB6-BCDE-4E4B-BBBB-16B735F6194A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
